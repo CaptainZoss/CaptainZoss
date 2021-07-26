@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainZoss
-- 👀 I’m interested in AI, game dev, web dev
+- 👀 I’m interested in Data Science, game dev, web dev and AI
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me  amanzewge@gmail.com
